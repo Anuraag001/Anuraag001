@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anuraagbv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuraagbv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anuraag-bv-34ba8a287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuraagbv" height="30" width="40" /></a>
 <a href="https://instagram.com/anuraagbv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuraagbv1" height="30" width="40" /></a>
 </p>
 
@@ -18,5 +18,5 @@
   
 <p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraag001&show_icons=true&locale=en&layout=compact" alt="anuraag001" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraag001&show_icons=true&locale=en" alt="anuraag001" /></p>
-<br>
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraag001&" alt="anuraag001" /></p>
