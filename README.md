@@ -19,4 +19,4 @@
 <p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraag001&show_icons=true&locale=en&layout=compact" alt="anuraag001" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraag001&show_icons=true&locale=en" alt="anuraag001" /></p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraag001&" alt="anuraag001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraag001&" alt="anuraag001" /></p>
